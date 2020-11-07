@@ -15,7 +15,7 @@ const PostLink = ({ post }) => (
         </Link>
       </h2>
       
-      <p>{post.frontmatter.solutionDescription}</p>
+      <p>{post.frontmatter.metaDescription}</p>
       
     </header>
   </article>
