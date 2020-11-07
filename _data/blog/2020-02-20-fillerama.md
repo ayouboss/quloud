@@ -2,7 +2,7 @@
 template: BlogPost
 path: /fillerama
 date: 2020-02-20T14:59:36.571Z
-title: NUAGE NUMERIQUE
+title: NUAGE
 metaDescription: 'Azure, AWS, antivirus'
 thumbnail: /assets/security-protection-anti-virus-software-60504.jpeg
 ---
