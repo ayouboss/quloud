@@ -14,7 +14,9 @@ const PostLink = ({ post }) => (
           {post.frontmatter.title}
         </Link>
       </h2>
-      <div className="post-meta">{post.frontmatter.date}</div>
+      if(post) {
+      <p>{post.frontmatter.solutionDescription}</p>
+      }
     </header>
   </article>
 )
